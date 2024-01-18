@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the front end of [Your Project Name]! This application provides a user-friendly interface for real-time group chat powered by WebSockets. Users can sign in using their Google account, participate in conversations, and enjoy a seamless chatting experience.
+Welcome to the front end of Chat Application! This application provides a user-friendly interface for real-time group chat powered by WebSockets. Users can sign in using their Google account, participate in conversations, and enjoy a seamless chatting experience.
 
 ## Technologies Used
 
